@@ -1,0 +1,16 @@
+**Operators:**
+
+1. **Arithmetic Operators:**
+   - Write a Java program to perform basic arithmetic operations (addition, subtraction, multiplication, division) on two numbers entered by the user.
+
+2. **Relational and Logical Operators:**
+   - Create a program that checks if a given number is even or odd using both relational and logical operators.
+
+3. **Bitwise Operators:**
+   - Write a Java program to perform bitwise AND, OR, XOR operations on two integers.
+
+4. **Assignment Operators:**
+   - Develop a program that demonstrates the use of compound assignment operators (e.g., `+=`, `-=`, `*=`) with user input.
+
+5. **Increment and Decrement Operators:**
+   - Implement a Java program to show the difference between pre-increment and post-increment operators in a loop.

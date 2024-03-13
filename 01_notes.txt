@@ -1,0 +1,2 @@
+check for default value of primitive data type in java
+min and max not working for char and boolean

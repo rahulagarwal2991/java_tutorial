@@ -1,0 +1,84 @@
+/**
+ * java programming format
+ * 1. comment section
+ * 2. package section
+ * 3. import section
+ * 4. class/interface section
+ * 5. main class section
+ */
+// 1. comment section 
+        1. single line comment ->  
+            it allows description in single line
+            ex: 
+            // description
+        2. multi line comment
+            ex syntax:
+            /*
+            comment here
+            */
+        3. Documentation comment
+        syntax
+        /**
+
+        */
+
+        2. package section 
+        math 
+            -> addition
+            -> subtraction
+            -> division
+            ...
+        Advantages 
+            modularity  -> to use as combined or seperate entity
+            abstraction -> to hide irrlevent information from the world
+            security    -> 
+            reusability -> to resuse the same thing again and again 
+            sharability ->    
+
+
+            class a extends addition
+
+            class b extends a
+
+
+            1. pre defined package 
+                java.util
+                java.io
+                java.sql
+
+            2. user defined packages
+                ex package p1;
+
+    3. Import section
+        import java.util.*;
+
+    4. classes and interfaces section 
+        car 
+        student  
+        product
+        customer
+
+        ex : bank, account, balance , transaction
+interface homeloan{
+    homeloanInterest();
+}
+
+class bank extends homeloan{
+    function homeloanInterest(){
+
+    }
+}
+// ICICI 9.0, HDFC 8.8 ....
+
+
+    5. main class section:
+        main class is a java class which includes main method
+
+        1. 
+        2. 
+
+        public static void main(String[] args) {
+        ///
+       // code
+        ///
+    }

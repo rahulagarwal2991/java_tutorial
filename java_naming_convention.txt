@@ -1,0 +1,30 @@
+Java naming convention
+    Its is case sensitive programming lang.
+        lower case letter != upper case letters
+        APPLE != apple
+
+1. classes
+String 
+StringBuffer
+
+2.variables
+in
+out
+bodyContent -> camel case
+
+3. Methods
+concat()
+forName()
+getInputStream()
+
+4. constant
+MIN
+MIN_VALUE
+MAX_VALUE
+
+5. packages
+java.util
+java.util.lang
+java.lang.reflect
+javax.servlet.jsp.*
+
