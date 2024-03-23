@@ -17,8 +17,13 @@ public class Java1201Patterprint{
             }
             System.out.println();
         }
-        
 
+        // for(int i = 1; i<=4;i++){
+        //     for(int y =1; y<=4 ; y++){
+        //         System.out.print(i+" "+y+"    ");
+        //     }
+        //     System.out.println();
+        // }
     }
 }
 
